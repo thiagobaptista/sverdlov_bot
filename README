@@ -1,0 +1,3 @@
+This is a small Ruby script I've created in order to search for tweets mentioning a specific fake profile and to send a message to those who written it warning about the "fakeness" of that profile.
+
+This script uses Ruby 1.9.2 and the Twitter Gem, and can be used as an example of how to create a "listener" twitter bot.
